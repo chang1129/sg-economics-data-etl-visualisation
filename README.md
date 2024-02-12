@@ -1,13 +1,27 @@
-# sg-economics-data-etl-visualisation
-Hello there,
+# Singapore Economics Data ETL & Visualisation
+## Overview
 
 Welcome to my Singapore Economics Data ETL & Visualisation project. This project uses Python to extract data from more than one source using APIs and other methods. The data is then processed for standardisation purposes and stored as a CSV file that will be used for visualisation. The visualisation tool used for the project is Power BI. You may refer to the PBIX file for the visualisation. In case you do not have Power BI installed on your machine, you may refer to the PDF file for the visualisation. Please note that the PDF file may be less intuitive as it cannot show the name of each page and does not have interactive features, but it can provide a quick overview of all the visualisations. 
 
 **Data last updated:** 23/06/2023
 
 **Data source:** Department of Statistics Singapore, Monetary Authority of Singapore
+## Visualisation Example
+<h2 align=center>Gross Domestic Product (GDP)</h2>
 
-**Disclaimer**:
+![1](https://github.com/chang1129/sg-economics-data-etl-visualisation/assets/116947628/de165238-b492-44dd-9dc5-a45738b4aaf1)
+<h2 align=center>Inflation</h2>
+
+![2](https://github.com/chang1129/sg-economics-data-etl-visualisation/assets/116947628/9beeacc2-864c-43b7-8d32-b61ff6c02b12)
+<h2 align=center>Labour Market</h2>
+
+![3](https://github.com/chang1129/sg-economics-data-etl-visualisation/assets/116947628/638a1c52-8280-4c0d-962b-d65debb7ae5a)
+<h2 align=center>Money Supply</h2>
+
+![4](https://github.com/chang1129/sg-economics-data-etl-visualisation/assets/116947628/50683a60-36f6-42e6-9ac9-a4df18025cd5)
+
+
+## Disclaimer:
 
 Please read the following disclaimer carefully before using or reproducing the content of this Github project:
 
